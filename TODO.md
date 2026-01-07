@@ -4,11 +4,11 @@
 - [x] 1. Create GitHub repository "LLD" (public) with description
 - [x] 2. Initialize local git repository
 - [x] 3. Add remote origin to local repository
-- [ ] 4. Create README.md with repository description
-- [ ] 5. Create .gitignore for Java files
-- [ ] 6. Add and commit all files
-- [ ] 7. Push to GitHub main branch
-- [ ] 8. Verify repository is accessible
+- [x] 4. Create README.md with repository description
+- [x] 5. Create .gitignore for Java files
+- [x] 6. Add and commit all files
+- [x] 7. Push to GitHub main branch
+- [x] 8. Verify repository is accessible
 
 ## Phase 2: Documentation Files
 - [ ] 4. Create README.md with repository description and usage instructions
